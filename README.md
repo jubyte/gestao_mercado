@@ -71,7 +71,7 @@ gestao_mercado/
 │   └── db.sql
 │
 ├── docs/
-│   ├── caso_de_uso.png
+│   ├── caso_de_uso.md
 │   └── diagrama.png
 │
 ├── infra/
